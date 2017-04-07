@@ -1,2 +1,0 @@
-# vrooom
-A minimal website
