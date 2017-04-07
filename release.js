@@ -17,5 +17,5 @@ var options = {};
  * Release notes:
  */
 
-require('total.js').http('release', options);
+require('total.js').http('release');
 // require('total.js').https('release', options);
