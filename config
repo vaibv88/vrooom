@@ -1,5 +1,5 @@
 name                            : Total.js
-author                          : Your company name
+author                          : Axenic Technologies	
 version                         : 1.0.0
 secret                          : secret-key-for-web
 
@@ -9,4 +9,3 @@ mail.smtp.options               : {"secure":false,"port":25,"user":"","password"
 mail.address.from               : your@yourwebsite.com
 mail.address.reply              : your@yourwebsite.com
 mail.address.bcc                :
-mail.contact                    : petersirka@gmail.com
